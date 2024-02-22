@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  background-color: #f3f2ef;
+  flex-direction: column;
+  /* align-items: center; */
+}
+
+.app_body {
+  display: flex;
+}
+
